@@ -1,0 +1,32 @@
+.prev-result-table {
+  border: 1px solid rgb(50, 50, 50);
+  padding: 10px 0 0 10px;
+}
+.prev-result-table .col {
+  padding: 0 !important;
+  margin-bottom: 10px;
+}
+
+.hr-line {
+  display: inline-block;
+  width: 75%;
+  border-bottom: 1px dashed rgb(50, 50, 50);
+}
+.w-10{
+    width: 64% !important;
+}
+.w-50 {
+  width: 54% !important;
+}
+.w-60 {
+    width: 63% !important;
+  }
+  .w-65 {
+    width: 60% !important;
+  }
+.w-15 {
+    width: 100% !important;
+  }
+.border th, .border td{
+    border-color: #000 !important;
+}
